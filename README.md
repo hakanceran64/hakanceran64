@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love programming
 
 ### Connect with me:
-[<img align="left" alt="mertdemir | Medium"    width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"    />](https://medium.com/@hakanceran64)
+[<img align="left" alt="mertdemir | Medium"    width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"    />](https://hakanceran.medium.com/)
 [<img align="left" alt="mertdemir | Twitter"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"   />](https://twitter.com/hakanceran64)
 [<img align="left" alt="mertdemir | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />](https://www.linkedin.com/in/hakanceran/)
 [<img align="left" alt="mertdemir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/muhendis.okur/)
