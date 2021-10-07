@@ -1,3 +1,9 @@
+<!--
+  -- Author:
+  -- Date:
+  -- Content:
+  -->
+
 ### Hi there. I am Hakan CERAN 👋
 
 <img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />
@@ -24,16 +30,10 @@
 
 [![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanceran64&theme=tokyonight)](https://github.com/hakanceran64/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanceran64&layout=compact)](https://github.com/hakanceran64/github-readme-stats)
+[![Hakan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hakanceran64&layout=compact)](https://github.com/hakanceran64/github-readme-stats)
+
 
 <br>
 <br>
 
 ---
-
-<!--
-**hakanceran64/hakanceran64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[<img align="left" alt="mertdemir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/)
-
-Here are some ideas to get you started:
--->
