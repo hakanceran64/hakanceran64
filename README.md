@@ -18,10 +18,12 @@
 [<img align="left" alt="mertdemir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/muhendis.okur/)
 
 <br>
+<br>
 
 ---
 
 [![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanceran64&theme=tokyonight)](https://github.com/hakanceran64/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanceran64&layout=compact)](https://github.com/hakanceran64/github-readme-stats)
 
 <!--
 **hakanceran64/hakanceran64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
