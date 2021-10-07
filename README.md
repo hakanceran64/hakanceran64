@@ -17,6 +17,8 @@
 [<img align="left" alt="mertdemir | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />](https://www.linkedin.com/in/hakanceran/)
 [<img align="left" alt="mertdemir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/muhendis.okur/)
 
+---
+
 [![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanceran64)](https://github.com/hakanceran64/github-readme-stats)
 
 <!--
