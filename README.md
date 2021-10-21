@@ -30,7 +30,7 @@
 
 [![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanceran64&theme=tokyonight)](https://github.com/hakanceran64/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanceran64&layout=compact)](https://github.com/hakanceran64/github-readme-stats)
-[![Hakan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hakanceran64&layout=compact)](https://github.com/hakanceran64/github-readme-stats)
+[![Hakan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hakanceran&layout=compact)](https://github.com/hakanceran64/github-readme-stats)
 
 <br>
 <br>
