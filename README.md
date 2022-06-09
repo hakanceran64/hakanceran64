@@ -39,3 +39,14 @@
 [![wakatime](https://wakatime.com/badge/user/3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2.svg)](https://wakatime.com/@3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2)
 
 ---
+
+name: GitHub Skyline
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.skyline.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_skyline: yes
+  plugin_skyline_year: 2020
+  plugin_skyline_frames: 6
+  plugin_skyline_quality: 1
