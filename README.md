@@ -26,6 +26,8 @@
 <br>
 <br>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="hakanceran" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/hakanceran?trk=profile-badge">Hakan CERAN</a></div>
 ---
 
 [![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanceran64&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
