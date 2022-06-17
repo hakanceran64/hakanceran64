@@ -34,10 +34,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanceran64)](https://github.com/anuraghazra/github-readme-stats)
 [![Hakan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hakanceran)](https://github.com/anuraghazra/github-readme-stats)
 
-![WakeTime All Times](https://wakatime.com/share/@hakanceran/36cd5f45-9fca-4c4d-a1e1-5a60e6185e26.png)
+![WakeTime All Times](https://wakatime.com/share/@hakanceran/36cd5f45-9fca-4c4d-a1e1-5a60e6185e26.png =400x300)
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2.svg =200x150)](https://wakatime.com/@3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2)
+[![wakatime](https://wakatime.com/badge/user/3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2.svg)](https://wakatime.com/@3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2)
 
 ---
