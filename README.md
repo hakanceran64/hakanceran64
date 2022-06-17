@@ -38,6 +38,6 @@
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2.svg)](https://wakatime.com/@3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2)
+[![wakatime](https://wakatime.com/badge/user/3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2.svg =400x300)](https://wakatime.com/@3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2)
 
 ---
