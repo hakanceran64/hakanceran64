@@ -6,8 +6,8 @@
 [![wakatime](https://wakatime.com/badge/user/3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2.svg)](https://wakatime.com/@3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2)
 
 ### Hi there. I am Hakan CERAN 👋
-
-<img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />
+https://github.com/hakanceran64/hakanceran64/blob/main/1_zVnWJtyGOX_kUIDm6ccCfQ.gif
+<img align="right" alt="GIF" src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif" width="500" height="320" />
  
 - 🔭 I’m currently working on Theta Clean Energy
 - 🌱 I’m currently learning Machine Learning Algorithms
