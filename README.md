@@ -3,6 +3,7 @@
   -- Date:
   -- Content:
   -->
+
 [![wakatime](https://wakatime.com/badge/user/3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2.svg)](https://wakatime.com/@3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2)
 
 ### Hi there. I am Hakan CERAN 👋
@@ -25,18 +26,15 @@
 [<img align="left" alt="mertdemir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/muhendis.okur/)
 
 <br>
-<br>
 
 ---
 
 [![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanceran64&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanceran64)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Hakan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hakanceran)](https://github.com/anuraghazra/github-readme-stats)
 
 <img alt="WakeTime All Times" src="https://wakatime.com/share/@hakanceran/36cd5f45-9fca-4c4d-a1e1-5a60e6185e26.png" width="600px" height="450px">
-
----
-
-[![wakatime](https://wakatime.com/badge/user/3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2.svg)](https://wakatime.com/@3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2)
 
 ---
