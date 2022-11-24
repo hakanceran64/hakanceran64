@@ -39,7 +39,7 @@
 
 ---
 
-### Connect with me:
+### Connect With Me
 
 <p align="left">
   <a href="https://www.behance.com/hakanceran" target="_blank" rel="noreferrer">
@@ -107,6 +107,16 @@
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+---
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/hakanceran64">
+  <img src="https://activity-graph.herokuapp.com/graph?username=hakanceran64&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
 
 ---
 
