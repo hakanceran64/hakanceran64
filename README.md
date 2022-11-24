@@ -4,10 +4,11 @@
   -- Content: Github HomePage
   -->
 
-<img align="right" alt="GIF" src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif" width="500" height="320" />
-
 [![wakatime](https://wakatime.com/badge/user/3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2.svg)](https://wakatime.com/@3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2)
 
+---
+
+<img align="right" alt="GIF" src="1_zVnWJtyGOX_kUIDm6ccCfQ.gif" width="500" height="320" />
 
 ### Hi there. I am Hakan CERAN 👋
 
@@ -29,6 +30,10 @@
 <a href="https://www.twitch.tv/hakanceran" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitch/status/hakanceran?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 -->
+
+<br>
+
+<br>
 
 <br>
 
