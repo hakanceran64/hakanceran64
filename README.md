@@ -122,8 +122,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanceran64&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%" />
 </a>
 
-<a href="http://www.github.com/hakanceran64">
-  <img src="https://activity-graph.herokuapp.com/graph?username=hakanceran64&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<a href="http://www.github.com/hakanceran64" align="left">
+  <img src="https://activity-graph.herokuapp.com/graph?username=hakanceran64&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="90%" />
 </a>
 
 ---
@@ -131,22 +131,18 @@
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-  <a href="https://github.com/hakanceran64/C_Plus_Plus" align="left">
+  <a href="https://github.com/hakanceran64/C_Plus_Plus">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hakanceran64&repo=C_Plus_Plus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/hakanceran64/Dart" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hakanceran64&repo=Dart&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/hakanceran64/Dart">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hakanceran64&repo=Dart&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-</div>
-
-<br><br><br><br><br><br>
-
-<div width="100%" align="center">
-  <a href="https://github.com/hakanceran64/Python" align="left">
+  <br><br><br><br><br><br>
+  <a href="https://github.com/hakanceran64/Python">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hakanceran64&repo=Python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/hakanceran64/Java" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hakanceran64&repo=Java&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/hakanceran64/Java">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hakanceran64&repo=Java&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
 
@@ -158,9 +154,9 @@
 [![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanceran64&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanceran64)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=hakanceran" width="40%" height="40%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=hakanceran" width="40%" />
 
 <!-- 800 - 600 -->
-<img align="left" src="https://wakatime.com/share/@hakanceran/36cd5f45-9fca-4c4d-a1e1-5a60e6185e26.png" width="50%" height="100%" />
+<img align="left" src="https://wakatime.com/share/@hakanceran/36cd5f45-9fca-4c4d-a1e1-5a60e6185e26.png" width="50%" />
 
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
