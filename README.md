@@ -19,6 +19,17 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hakanceran/)
 - ⚡ Fun fact: I love programming
 
+<a href="https://www.twitter.com/hakanceran64" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitter/follow/hakanceran64?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<a href="https://www.github.com/hakanceran64" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/hakanceran64?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<!--
+<a href="https://www.twitch.tv/hakanceran" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitch/status/hakanceran?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+-->
+
 <br>
 
 ---
