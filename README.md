@@ -4,6 +4,7 @@
   -- Content: Github HomePage
   -->
 
+[![hakanceran](https://komarev.com/ghpvc/?username=hakanceran64&label=Profile%20views&color=0e75b6&style=flat)](https://hakanceran.com.tr)
 [![wakatime](https://wakatime.com/badge/user/3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2.svg)](https://wakatime.com/@3c7a50f7-fbe6-44cd-bb8b-623bd7ce08b2)
 
 ---
