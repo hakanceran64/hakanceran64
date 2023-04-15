@@ -13,13 +13,13 @@
 
 ### Hi there. I am Hakan CERAN 👋
 
-- 🔭 I’m currently working on Theta Clean Energy
-- 🌱 I’m currently learning Machine Learning Algorithms
-- 👯 I’m looking to collaborate on Machine Learning
+- 🔭 I’m currently working on Mavinci Bilişim Sanayi ve Ticaret A.Ş.
+- 🌱 I’m currently learning Deep Learning
+- 👯 I’m looking to collaborate on Deep Learning
 - 🤔 I’m looking for help with PIV.
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hakanceran/)
-- ⚡ Fun fact: I love programming
+- ⚡ Fun fact: I love programming <3
 
 <a href="https://www.twitter.com/hakanceran64" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/hakanceran64?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
