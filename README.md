@@ -160,4 +160,8 @@
 <!-- 800 - 600 -->
 <img align="left" src="https://wakatime.com/share/@hakanceran/36cd5f45-9fca-4c4d-a1e1-5a60e6185e26.png" width="50%" />
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b6dc78f24f2540481191f0?variant=dark)](https://roadmap.sh)
+
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
