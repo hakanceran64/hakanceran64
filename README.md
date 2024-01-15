@@ -150,3 +150,6 @@
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b6dc78f24f2540481191f0?variant=dark)](https://roadmap.sh/befriend?u=64b6dc78f24f2540481191f0)
 
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
+
+### 😂 Random Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 600px;"/>
