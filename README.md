@@ -18,12 +18,13 @@
 
 ## Hi, I'm Hakan CERAN 👋
 
-**Software Engineer** at Mavinci Bilişim Sanayi ve Ticaret A.Ş.
+**C++ & AI Software Developer** at Mavinci Bilişim Sanayi ve Ticaret A.Ş.
 
-- 🔭 Building production systems at **Mavinci Bilişim**
-- 🌱 Deepening expertise in **Deep Learning** and AI/ML pipelines
-- 👯 Open to collaborating on **Deep Learning** & computer vision projects
-- 💬 Ask me about **Python, Go, C++, or ML/AI**
+- 🔭 Developing AI-powered systems focused on **Computer Vision** & **Edge AI**
+- 🎯 Working with YOLO-based object detection and real-time inference pipelines
+- 🧑‍🏫 Mentoring AI/CV interns at **Mavinci Bilişim**
+- 👯 Open to collaborating on **Computer Vision** & deep learning projects
+- 💬 Ask me about **C++, Python, Go, or Computer Vision**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hakanceran/)
 - 🌐 [hakanceran.com.tr](https://hakanceran.com.tr)
 
